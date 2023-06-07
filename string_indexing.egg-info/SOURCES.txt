@@ -1,0 +1,8 @@
+setup.py
+string_indexing/__init__.py
+string_indexing/test.py
+string_indexing.egg-info/PKG-INFO
+string_indexing.egg-info/SOURCES.txt
+string_indexing.egg-info/dependency_links.txt
+string_indexing.egg-info/requires.txt
+string_indexing.egg-info/top_level.txt
